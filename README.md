@@ -56,7 +56,7 @@
   />
 
   <img 
-    height="184"
+    height="140"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maihrendson&layout=compact&theme=tokyonight&include_all_commits=true&locale=pt-br"
     alt="Linguagens mais usadas"
   />
@@ -64,7 +64,7 @@
 
 ---
 
-### 🤝 Vamos nos conectar!
+### 🤝 Entre em contato!
 
 <p align="left">
   <a href="https://linkedin.com/in/maihrendson-cauã-14969a35a/" target="_blank">
@@ -74,3 +74,4 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="Gmail"/>
   </a>
 </p>
+
