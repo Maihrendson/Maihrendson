@@ -17,30 +17,20 @@
 - 💾 **SQL** – consultas, modelagem e banco de dados  
 - 🔧 **Git** – controle de versão e colaboração em projetos  
 
-> Estou construindo uma base sólida para me tornar um **Desenvolvedor completo**
+> Estou construindo uma base sólida para me tornar um **Desenvolvedor**
 
 ---
 
 ### 🤖 Linguagens e Tecnologias
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="PostgreSQL" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VS Code" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub" style="filter: invert(1);" />
 </p>
-
----
-
-### 🧩 Em construção...
-
-🛠️ **Projetos pessoais em desenvolvimento**  
-✨ Estou criando repositórios que demonstram minha jornada como dev. Em breve:
-
-- Um CRUD completo com Java e banco de dados 🗃️  
-- Projetos para me aperfeiçoar em desenvolvimento web 🌐  
 
 ---
 
@@ -64,14 +54,13 @@
 
 ---
 
-### 🤝 Entre em contato!
+###  Entre em contato!
 
-<p align="left">
   <a href="https://linkedin.com/in/maihrendson-cauã-14969a35a/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn"/>
   </a>
-  <a href="mailto:mcauasocial@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="Gmail"/>
+  <a href="mailto:mcauasocial@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="40" alt="Gmail"/>
   </a>
 </p>
 
