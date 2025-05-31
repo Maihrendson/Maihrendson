@@ -56,11 +56,11 @@
 
 ###  Entre em contato!
 
+  <p align="center">
   <a href="https://linkedin.com/in/maihrendson-cauã-14969a35a/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" />
   </a>
-  <a href="mailto:mcauasocial@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="40" alt="Gmail"/>
+  <a href="mailto:mcauasocial@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="40" alt="Gmail" />
   </a>
 </p>
-
