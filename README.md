@@ -1,9 +1,5 @@
 <h1 align="center">👨🏽‍💻 Maihrendson Cauã</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=58A6FF&vCenter=true&width=435&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Construindo+minha+carreira+como+dev!" alt="Typing SVG">
-</p>
-
 ---
 
 ### 📚 Sobre mim
