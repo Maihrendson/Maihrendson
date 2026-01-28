@@ -22,5 +22,5 @@
 - Git & GitHub
 
 ### Contact
-📧 Email: @maihrendsondev@gmail.com  
+📧 Email: maihrendsondev@gmail.com  
 💼 LinkedIn: https://linkedin.com/in/Maihrendson
