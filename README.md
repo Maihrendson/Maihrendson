@@ -1,5 +1,7 @@
 ## Hi, I'm Maihrendson Cauã
 
+🎓 Software Engineer focused on building scalable and well-structured applications.
+
 ### Education
 - B.Sc. in Computer Science @ UNIPÊ
 
