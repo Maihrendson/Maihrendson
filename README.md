@@ -8,7 +8,7 @@ Software Engineer focused on building scalable and well-structured applications.
 ### Tech Stack
 
 **Back-end**
-- JavaScript / TypeScript / NestJS
+- NodeJS / TypeScript / NestJS
 - Python / Django / Django Rest Framework (DRF)
 - Java
 
